@@ -2,7 +2,10 @@
   "name": "react-shop-miniprogram",
   "version": "1.0.0",
   "private": true,
-  "description": "",
+  "description": "A shop miniprogram sample with Taro.",
+  "author": "Cesar Lai",
+  "license": "MIT",
+  "homepage": ".",
   "templateInfo": {
     "name": "redux",
     "typescript": true,
@@ -33,8 +36,6 @@
     "Android >= 4.1",
     "ios >= 8"
   ],
-  "author": "",
-  "license": "MIT",
   "dependencies": {
     "@babel/runtime": "^7.7.7",
     "@tarojs/components": "3.0.26",
